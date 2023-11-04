@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    background-color:red;
+    
+  }
+  #album 
+  {
+    width:450px;
+    border-radius:30px;
+  }
+
+  h1{
+    font-family: 'Comfortaa', sans-serif;
+  }
+
